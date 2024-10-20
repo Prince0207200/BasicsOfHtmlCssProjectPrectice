@@ -1,0 +1,14 @@
+div{
+    height: 200px;
+    width: 140px;
+    background-color: rgb(121, 70, 70);
+    margin: 10px auto;
+    background-image: url("bg-img-2.jpg");
+    background-size: contain;
+    background-size: cover;
+    /* background-size: auto; */
+    opacity: 0.8;
+    text-align: center;
+    text-decoration:wavy;
+    color: brown;
+}

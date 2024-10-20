@@ -1,0 +1,39 @@
+div{
+    background-color: black;
+    border: 2px solid black;
+    height: 30px;
+    width: 30px;
+}
+
+#outer{
+    background-color: yellow;
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+}
+
+
+#first{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+#sec{
+    position: absolute;
+    top: 40px;
+    left: 102px;
+    display: inline-block;
+    border-radius: 50%;
+}
+#thi{
+    background-color: red;
+    width: 74px;
+    height: 38px;
+    position: absolute;
+    border-radius: 0px 0px 40px 40px;
+    top: 107px;
+    left: 51px;
+
+}
